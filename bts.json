@@ -184,13 +184,7 @@
       "judul":"",
       "image":"file:///android_asset/gambar/abc (19).jpg"
     },
-    {
-      "id":20,
-      "id_wall":"0020",
-      "nama_cat": "part1",
-      "judul":"",
-      "image":"file:///android_asset/gambar/abc (20).jpg"
-    },
+    
     {
       "id":21,
       "id_wall":"0021",
@@ -212,13 +206,7 @@
       "judul":"",
       "image":"file:///android_asset/gambar/abc (23).jpg"
     },
-    {
-      "id":24,
-      "id_wall":"0017",
-      "nama_cat": "part1",
-      "judul":"",
-      "image":"file:///android_asset/gambar/abc (24).jpg"
-    },
+    
     {
       "id":25,
       "id_wall":"0025",
@@ -233,13 +221,7 @@
       "judul":"",
       "image":"file:///android_asset/gambar/abc (26).jpg"
     },
-    {
-      "id":27,
-      "id_wall":"0027",
-      "nama_cat": "part1",
-      "judul":"",
-      "image":"file:///android_asset/gambar/abc (27).jpg"
-    },
+    
     {
       "id":28,
       "id_wall":"0028",
